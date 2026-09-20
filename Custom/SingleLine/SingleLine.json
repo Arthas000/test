@@ -1,0 +1,14 @@
+{
+  "SingleLines": [
+    {
+      "Name": null,
+      "Left": "",
+      "Right": "",
+      "Scale": [ 1, 1.2 ],
+      "PositionLeft": [ -4, 7.3, 8 ],
+      "PositionRight": [ 4, 7.3, 8 ],
+      "LightOpacity": 255,
+      "DarkOpacity": 200
+    }
+  ]
+}

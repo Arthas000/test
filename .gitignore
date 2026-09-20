@@ -1,0 +1,9 @@
+# 构建产物（对阅读/AI 无用，且会超 GitHub 100MB 限制）
+*.exe
+*.dll
+UnityCrashHandler64.exe
+UnityPlayer.dll
+Arcade-Alpha_Data/
+MonoBleedingEdge/
+Tools/*.exe
+Tools/*.dll

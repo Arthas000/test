@@ -1,0 +1,21 @@
+﻿[
+  {
+    "ID": null,
+    "FilePath": "",
+    "MultiplyScale": 1.0,
+    "PivotY": 0.5,
+    "CanvasRectUseDesignResolutionSize": false,
+    "MinOpacity": 50,
+    "MaxOpacity": 100,
+    "AnchorSettings": {
+      "AnchorType": 0,
+      "AnchorPositionX": 0.0,
+      "AnchorPositionY": 0.0
+    },
+    "UseInternalBlendFactorSettings": false,
+    "BlendFactorSettings": {
+      "SrcFactor": 1,
+      "DstFactor": 10
+    }
+  }
+]

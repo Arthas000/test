@@ -1,0 +1,13 @@
+{
+  "Tracks": [
+    {
+        "Path": null,
+        "Side": 0,
+        "ExtraLane": {
+        "UseCustomSkin": false,
+        "UseDifferentSkin": false,
+        "Path": []
+      }
+    }
+  ]
+}
